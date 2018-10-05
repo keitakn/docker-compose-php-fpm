@@ -6,5 +6,6 @@
 </head>
 <body>
 <div>🐱ぬこ🐱がたくさんいる生活🐱</div>
+<?php echo phpinfo(); ?>
 </body>
 </html>
